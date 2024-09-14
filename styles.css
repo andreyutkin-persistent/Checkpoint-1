@@ -30,7 +30,7 @@ h1 {
     height: 500px;
     max-width: 1180px;
     margin-top: 30px;
-    background-image: url='первая картинка.png');
+    background-image: url='первая картинка.png';
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
